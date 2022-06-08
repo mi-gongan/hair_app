@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hair_app/static/css/main.d9c45378.css",
-    "main.js": "/hair_app/static/js/main.c491137c.js",
+    "main.js": "/hair_app/static/js/main.9ae66357.js",
     "static/js/787.0bca8be2.chunk.js": "/hair_app/static/js/787.0bca8be2.chunk.js",
     "index.html": "/hair_app/index.html",
     "main.d9c45378.css.map": "/hair_app/static/css/main.d9c45378.css.map",
-    "main.c491137c.js.map": "/hair_app/static/js/main.c491137c.js.map",
+    "main.9ae66357.js.map": "/hair_app/static/js/main.9ae66357.js.map",
     "787.0bca8be2.chunk.js.map": "/hair_app/static/js/787.0bca8be2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9c45378.css",
-    "static/js/main.c491137c.js"
+    "static/js/main.9ae66357.js"
   ]
 }
